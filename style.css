@@ -18,6 +18,7 @@ body {
   display: grid;
   position: relative;
   max-width:600px;
+  height:auto;
 }
 
 .value {
