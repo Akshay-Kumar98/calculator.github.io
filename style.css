@@ -9,15 +9,15 @@ body {
   width: 100%;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   height: 100vh;
-  margin-top: 150px;
   background-color: #091921;
 }
 
 .calculator {
   display: grid;
   position: relative;
+  max-width:600px;
 }
 
 .value {
